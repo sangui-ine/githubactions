@@ -1,3 +1,5 @@
-#githubactions
+#IMPORTANT INSTRUCTIONS
+    
 
-ADDED THIS README FILE
+
+    This is a demo repository for practicing Git and GitHub.
